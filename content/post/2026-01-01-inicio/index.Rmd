@@ -1,0 +1,41 @@
+---
+title: "Oi, eu sou o Goku!"
+categories: Apresentação
+date: "2026-01-01T00:00:00Z"
+draft: false
+featured: false
+image:
+  caption: ''
+  focal_point: ''
+  placement: 2
+  preview_only: false
+lastmod: "2026-01-01T00:00:00Z"
+projects: []
+summary: ''
+tags:
+- Apresentação
+- Acadêmico
+- Data Science
+authors: admin
+---
+
+![](goku.jpg)
+
+Se o título deste post trouxe à memória a voz do conhecido herói de Dragon Ball, espero que sinta também a mesma disposição para aprender e explorar que teremos por aqui. É um prazer receber você neste espaço dedicado ao conhecimento.
+
+------
+
+Desta forma, é com muita alegria que anuncio que o meu site oficial já está no ar. Assim como o Goku em seus treinamentos, este espaço ainda está em fase de evolução e em constante construção, mas o Kamehameha inicial já foi lançado.
+
+### O que você vai encontrar por aqui?
+
+O objetivo deste site é ser um ponto de encontro para compartilhar conhecimento e progresso. Em breve, teremos seções dedicadas a:
+
+* Material de Disciplinas: Conteúdos, notas de aula e recursos das matérias que estou ministrando.
+* Pesquisa Científica: Atualizações e detalhes sobre os projetos e pesquisas que estou desenvolvendo no momento.
+* Universo de Dados: Posts detalhados e insights sobre temas que me movem, como:
+    * Estatística e Matemática.
+    * Data Science.
+    * Machine Learning e muito mais!
+
+A ideia é transformar este espaço em um hub de aprendizado contínuo. Fique à vontade para explorar e volte sempre para conferir as novidades que estão por vir.

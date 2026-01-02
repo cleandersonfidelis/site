@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Cleanderson R. Fidelis</title>
+    <link>https://www.rafaelstern.science/tag/data-science/</link>
+      <atom:link href="https://www.rafaelstern.science/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.rafaelstern.science/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Data Science</title>
+      <link>https://www.rafaelstern.science/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Oi, eu sou o Goku!</title>
+      <link>https://www.rafaelstern.science/post/2026-01-01-inicio/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.rafaelstern.science/post/2026-01-01-inicio/</guid>
+      <description>
+
+
+&lt;p&gt;&lt;img src=&#34;goku.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Se o título deste post trouxe à memória a voz do conhecido herói de Dragon Ball, espero que sinta também a mesma disposição para aprender e explorar que teremos por aqui. É um prazer receber você neste espaço dedicado ao conhecimento.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Desta forma, é com muita alegria que anuncio que o meu site oficial já está no ar. Assim como o Goku em seus treinamentos, este espaço ainda está em fase de evolução e em constante construção, mas o Kamehameha inicial já foi lançado.&lt;/p&gt;
+&lt;div id=&#34;o-que-você-vai-encontrar-por-aqui&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;O que você vai encontrar por aqui?&lt;/h3&gt;
+&lt;p&gt;O objetivo deste site é ser um ponto de encontro para compartilhar conhecimento e progresso. Em breve, teremos seções dedicadas a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Material de Disciplinas: Conteúdos, notas de aula e recursos das matérias que estou ministrando.&lt;/li&gt;
+&lt;li&gt;Pesquisa Científica: Atualizações e detalhes sobre os projetos e pesquisas que estou desenvolvendo no momento.&lt;/li&gt;
+&lt;li&gt;Universo de Dados: Posts detalhados e insights sobre temas que me movem, como:
+&lt;ul&gt;
+&lt;li&gt;Estatística e Matemática.&lt;/li&gt;
+&lt;li&gt;Data Science.&lt;/li&gt;
+&lt;li&gt;Machine Learning e muito mais!&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A ideia é transformar este espaço em um hub de aprendizado contínuo. Fique à vontade para explorar e volte sempre para conferir as novidades que estão por vir.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
