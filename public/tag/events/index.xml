@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events | Cleanderson R. Fidelis</title>
-    <link>https://www.rafaelstern.science/tag/events/</link>
-      <atom:link href="https://www.rafaelstern.science/tag/events/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cleandersonfidelis.netlify.app/tag/events/</link>
+      <atom:link href="https://cleandersonfidelis.netlify.app/tag/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Events</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2024 07:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.rafaelstern.science/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cleandersonfidelis.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Events</title>
-      <link>https://www.rafaelstern.science/tag/events/</link>
+      <link>https://cleandersonfidelis.netlify.app/tag/events/</link>
     </image>
     
     <item>
       <title>Apresentação do poster &#39;Modelo de regressão heterocedástico OLL-Exponencial com fração de cura e fragilidade&#39;.</title>
-      <link>https://www.rafaelstern.science/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</link>
+      <link>https://cleandersonfidelis.netlify.app/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</link>
       <pubDate>Wed, 23 Oct 2024 07:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</guid>
+      <guid>https://cleandersonfidelis.netlify.app/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/AmOisEZZPZ8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;

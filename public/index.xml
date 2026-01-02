@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cleanderson R. Fidelis</title>
-    <link>https://www.rafaelstern.science/</link>
-      <atom:link href="https://www.rafaelstern.science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cleandersonfidelis.netlify.app/</link>
+      <atom:link href="https://cleandersonfidelis.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <description>Cleanderson R. Fidelis</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.rafaelstern.science/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://cleandersonfidelis.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Cleanderson R. Fidelis</title>
-      <link>https://www.rafaelstern.science/</link>
+      <link>https://cleandersonfidelis.netlify.app/</link>
     </image>
     
     <item>
       <title>Experience</title>
-      <link>https://www.rafaelstern.science/experience/experience/</link>
+      <link>https://cleandersonfidelis.netlify.app/experience/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/experience/experience/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/experience/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oi, eu sou o Goku!</title>
-      <link>https://www.rafaelstern.science/post/2026-01-01-inicio/</link>
+      <link>https://cleandersonfidelis.netlify.app/post/2026-01-01-inicio/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/post/2026-01-01-inicio/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/post/2026-01-01-inicio/</guid>
       <description>
 
 
@@ -52,25 +52,25 @@
     
     <item>
       <title>The use of echocardiography to identify acute and chronic changes in left ventricular function in hypertensive disorder of pregnancy</title>
-      <link>https://www.rafaelstern.science/publication/2025_bmc/</link>
+      <link>https://cleandersonfidelis.netlify.app/publication/2025_bmc/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/publication/2025_bmc/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/publication/2025_bmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The use of echocardiography to identify acute and chronic changes in left ventricular function in hypertensive disorder of pregnancy</title>
-      <link>https://www.rafaelstern.science/publication/2025_delos/</link>
+      <link>https://cleandersonfidelis.netlify.app/publication/2025_delos/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/publication/2025_delos/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/publication/2025_delos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apresentação do poster &#39;Modelo de regressão heterocedástico OLL-Exponencial com fração de cura e fragilidade&#39;.</title>
-      <link>https://www.rafaelstern.science/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</link>
+      <link>https://cleandersonfidelis.netlify.app/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</link>
       <pubDate>Wed, 23 Oct 2024 07:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</guid>
+      <guid>https://cleandersonfidelis.netlify.app/talk/apresentacao-do-poster-modelo-de-regressao-heterocedastico-oll-exponencial-com-fracao-de-cura-e-fragilidade./</guid>
       <description>&lt;!-- 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/AmOisEZZPZ8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -80,9 +80,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://www.rafaelstern.science/slides/example/</link>
+      <link>https://cleandersonfidelis.netlify.app/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/slides/example/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -205,25 +205,25 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://www.rafaelstern.science/admin/config.yml</link>
+      <link>https://cleandersonfidelis.netlify.app/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/admin/config.yml</guid>
+      <guid>https://cleandersonfidelis.netlify.app/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://www.rafaelstern.science/experience/ceo/</link>
+      <link>https://cleandersonfidelis.netlify.app/experience/ceo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/experience/ceo/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/experience/ceo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Professor of Semiconductor Physics</title>
-      <link>https://www.rafaelstern.science/experience/professor/</link>
+      <link>https://cleandersonfidelis.netlify.app/experience/professor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.rafaelstern.science/experience/professor/</guid>
+      <guid>https://cleandersonfidelis.netlify.app/experience/professor/</guid>
       <description></description>
     </item>
     
