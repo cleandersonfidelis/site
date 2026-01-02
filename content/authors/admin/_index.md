@@ -39,7 +39,7 @@ social:
   link: https://github.com/cleandersonfidelis
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/cleandersonfidelis674702149
+  link: https://www.linkedin.com/in/cleandersonfidelis674702149
 superuser: true
 title: Cleanderson R. Fidelis
 ---
