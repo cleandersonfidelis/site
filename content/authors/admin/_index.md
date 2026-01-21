@@ -2,7 +2,7 @@
 bio: I am a Professor in the Department of Statistics at the State University of Paraíba (UEPB), where my research focuses on developing advanced statistical models and diagnostic methods. My work emphasizes Survival Analysis (specifically cure fractions), Linear Regression Models, Machine Learning, GAMLSS Models, and Spatial Statistics.
 education:
   courses:
-  - course: Dr. em Estatística e Experimentação Agronômica
+  - course: Ph.D. em Estatística e Experimentação Agronômica
     institution: ESALQ, Universidade de São Paulo
     year: 2024
   - course: MBA in Data Science and Analytics
