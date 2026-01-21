@@ -1,5 +1,5 @@
 ---
-bio: Sou Professor Doutor no Departamento de Estatística da Universidade Estadual da Paraíba (UEPB), onde dedico minha pesquisa ao desenvolvimento de modelos estatísticos avançados e métodos de diagnóstico. Minha atuação foca em Análise de Sobrevivência (com ênfase em fração de cura), Modelos de Regressão Linear, Machine Learning, Modelos GAMLSS e Estatística Espacial.
+bio: I am a Professor in the Department of Statistics at the State University of Paraíba (UEPB), where my research focuses on developing advanced statistical models and diagnostic methods. My work emphasizes Survival Analysis (specifically cure fractions), Linear Regression Models, Machine Learning, GAMLSS Models, and Spatial Statistics.
 education:
   courses:
   - course: Dr. em Estatística e Experimentação Agronômica
@@ -44,4 +44,6 @@ superuser: true
 title: Cleanderson R. Fidelis
 ---
 
-Atualmente, sou Professor Doutor do Departamento de Estatística da Universidade Estadual da Paraíba (UEPB). Possuo Bacharelado em Estatística (UEPB, 2016). Obtive o MBA em Data Science and Analytics pela Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo (ESALQ - USP, 2023). Mestre em Matemática Aplicada e Estatística pela Universidade Federal do Rio Grande do Norte (UFRN, 2019) e Doutor em Estatística e Experimentação Agronômica pela Escola Superior de Agricultura "Luiz de Queiroz" - Universidade de São Paulo (ESALQ - USP, 2024). Tendo assim atuado em áreas com concentração em estatística espacial, modelos de regressão linear, modelos de regressão linear generalizado, análise de sobrevivência, análise de sobrevivência com fração de cura, modelos GAMLSS e modelos de Machine Learning com ênfase no desenvolvimento de modelos e métodos de diagnósticos.
+I am currently a Professor in the Department of Statistics at the State University of Paraíba (UEPB). I hold a Ph.D. in Statistics and Agronomic Experimentation from ESALQ-USP (2024), an MBA in Data Science and Analytics from ESALQ-USP (2023), and a Master’s degree in Applied Mathematics and Statistics from UFRN (2019). I earned my Bachelor’s degree in Statistics from UEPB in 2016.
+
+My professional expertise focuses on Spatial Statistics, Linear and Generalized Linear Regression Models, Survival Analysis (including cure fraction models), GAMLSS, and Machine Learning, with a primary emphasis on model development and diagnostic methods.
